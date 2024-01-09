@@ -1,4 +1,4 @@
-# How to build and deploy opencv related function to Android App 
+# How to build and deploy opencv related function to Android App(Pure Python) 
 Related resources:
 https://docs.beeware.org/en/latest/index.html
 
