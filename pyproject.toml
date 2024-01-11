@@ -1,5 +1,4 @@
-Briefcase based on this file to build.
-pyproject.toml
+Briefcase based on this file to build. (pyproject.toml)
 
 requires = [
     "imageio",
