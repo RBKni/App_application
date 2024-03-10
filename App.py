@@ -43,8 +43,7 @@ class StartApp(toga.App):
 
         ####
         
-        #os.chdir("C:\\Users\\10905061\\helloworld\\src\\helloworld\\resources\\")
-        #path = "C:\\Users\\10905061\\helloworld\\src\\helloworld\\resources\\"
+
         #path = "./resources/"
         print("self.paths:",self.paths.app)
         os.chdir(self.paths.app)
